@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50f7c982-caa6-46f1-9892-d77f45bce55f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patronCadenaDeResponsabilidad.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Manejador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ValidadorDeCorreo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/model/Correo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/model/ManejadorComercial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/model/ManejadorGerencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/model/ManejadorSoporteIT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/model/ManejadorSpam.java" afterDir="false" />
-    </list>
+    <list default="true" id="50f7c982-caa6-46f1-9892-d77f45bce55f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,12 +29,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="main" />
@@ -65,19 +50,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="patronCadenaDeResponsabilidad" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="patronCadenaDeResponsabilidad" />
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
